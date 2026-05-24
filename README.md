@@ -24,7 +24,7 @@ so that two URLs that mean the same thing compare equal.
 ## Install
 
 ```bash
-pip install urlnorm
+python -m pip install -e .
 ```
 
 ## Usage
